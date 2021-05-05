@@ -1,1 +1,1 @@
-# nicknames
+# nicknames [![Build status](https://ci.appveyor.com/api/projects/status/kqk9j296csekjlyg/branch/main?svg=true)](https://ci.appveyor.com/project/barsich/nicknames/branch/main)
